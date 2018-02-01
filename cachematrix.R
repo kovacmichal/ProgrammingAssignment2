@@ -6,8 +6,8 @@
 ## @return - list of functions:
 ##		- set value of matrix
 ##		- get value of matrix
-##		- set value of matrix
-##		- set value of matrix
+##		- set value of inverse matrix
+##		- set value of inverse matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
